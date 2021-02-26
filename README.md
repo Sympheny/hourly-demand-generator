@@ -1,6 +1,9 @@
 # Hourly Demand Generator
 With this Excel tool you can quickly create annual energy demand profiles with hourly resolution. Demand profiles can be created for a single building up to several buildings from different categories.
 
+![Overview of the generator](/resouces/overview_generator_Sympheny.jpg)]
+
+
 # How does it work?
 
 - Enter the total usable area (m2) and the specific energy requirement (kWh/m2) in each of the yellow worksheets ("1 MFH" to "13 Hotel").
