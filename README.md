@@ -4,7 +4,7 @@ With this Excel tool you can quickly create annual energy demand profiles with h
 ![Overview of the Excel generator](/resources/overview_generator_Sympheny.jpg)
 
 
-# How does it work?
+## How does it work?
 
 1. Enter the total usable area (m2) and the specific energy requirement (kWh/m2) in each of the yellow worksheets ("1 MFH" to "13 Hotel").
 The specific energy requirement (kWh/m2) for space heating, warm water and electricity can also be obtained in the table "CREM Qh, ww, e" for different building ages.
